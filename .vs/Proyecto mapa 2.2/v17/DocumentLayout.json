@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Lists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\UserLists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\UserLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Buttons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Buttons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserNodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\UserNodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA636F53-FED0-4079-A526-F440171FB465}|Proyecto mapa 2.2\\Proyecto mapa 2.2.vcxproj|solutionrelative:Proyecto mapa 2.2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lists.h",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.h",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Lists.h",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.h",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Lists.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T00:02:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.h",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Node.h",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.h",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T00:00:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLists.h",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.h",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\UserLists.h",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.h",
+              "RelativeToolTip": "Proyecto mapa 2.2\\UserLists.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T23:51:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLists.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\UserLists.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserLists.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\UserLists.cpp",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lists.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Lists.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Lists.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Lists.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:16.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Buttons.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Buttons.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Buttons.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Buttons.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Buttons.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserNodes.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserNodes.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\UserNodes.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\UserNodes.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\UserNodes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Resources.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Resources.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Resources.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Resources.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Node.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Node.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Node.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:51:01.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto mapa 2.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp",
+              "RelativeDocumentMoniker": "Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp",
+              "ToolTip": "C:\\Users\\Phanteks\\source\\repos\\Proyecto mapa 2.2\\Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp",
+              "RelativeToolTip": "Proyecto mapa 2.2\\Proyecto mapa 2.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T23:50:27.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
